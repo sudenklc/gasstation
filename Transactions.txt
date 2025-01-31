@@ -1,0 +1,3 @@
+Date, Type, Amount, LitrePrice 
+2024-08-17, Unleaded,100,1.5
+2024-08-17, Diesel,150,2.0

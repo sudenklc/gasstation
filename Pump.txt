@@ -1,0 +1,7 @@
+Name, Type, Capacity, Mode, TankLevel
+Pump1,unleaded,5000,automatic,2500
+Pump2,unleaded,4000,manual,2000
+Pump3, super unleaded,4500,manual,3000
+Pump4,unleaded,4000,manual,2500
+Pump5,unleaded,4500,automatic,3000
+Pump6,unleaded,5000,manual,2500
